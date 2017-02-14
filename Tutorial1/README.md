@@ -32,6 +32,7 @@ Project structure:
 .
 ├── README.md
 ├── pom.xml
+├── .gitignore
 └── src
     ├── main
     │   └── java
