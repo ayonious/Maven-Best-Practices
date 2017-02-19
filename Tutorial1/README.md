@@ -32,19 +32,11 @@ Project structure:
 .
 ├── README.md
 ├── pom.xml
-├── .gitignore
 └── src
-    ├── main
-    │   └── java
-    │       └── com
-    │           └── ayon
-    │               └── app
-    │                   └── App.java
-    └── test
-        └── java
-            └── com
-                └── ayon
-                    └── app
-                        └── AppTest.java
-
+    └── main
+        └── java
+            └── com
+                └── ayon
+                    └── app
+                        └── App.java
 ```
