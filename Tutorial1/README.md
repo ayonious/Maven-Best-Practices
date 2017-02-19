@@ -14,18 +14,15 @@ mvn package
 mvn exec:java -Dexec.mainClass="com.ayon.app.App"
 ```
 
-### Run all unit tests:
-```
-mvn test
-```
-
-### Few other maven commands:
+### Compile project:
 ```
 mvn compile
-mvn clean
 ```
 
-
+## Remove target folder and jar files
+```
+mvn clean
+```
 
 Project structure:
 ```
