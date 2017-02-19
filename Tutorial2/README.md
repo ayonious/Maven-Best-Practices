@@ -1,6 +1,6 @@
 # Simplest maven project
 
-See the pom.xml file to see what line is doing what. This is the min pom.xml file that should be present for any maven repo
+See the pom.xml file to see what line is doing what
 
 ## Simple commands to try with maven
 
